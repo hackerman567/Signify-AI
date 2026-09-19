@@ -1,6 +1,5 @@
 # SIGNIFY AI — AI-Powered Accessibility for Deaf Students
 
-> **GitHub DevDays Hackathon Submission · Team Unstoppable**
 
 SIGNIFY AI is a real-time classroom accessibility assistant that converts spoken lecture audio into live captions, multi-language translations, and AI-generated study notes — ensuring deaf and hard-of-hearing students never miss a word.
 
@@ -146,5 +145,3 @@ NODE_ENV=development
 5. Click **"Generate Summary"** to see the full AI analysis
 
 ---
-
-## Team: **Unstoppable** | GitHub DevDays Hackathon 2026
